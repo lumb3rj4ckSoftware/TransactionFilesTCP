@@ -1,0 +1,13 @@
+/.idea/**
+/.idea/modules/*
+/.idea/libraries/*
+/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+/build/classes/java/main/Client/CopyFromClientToServer.class
+/.gradle/4.8/fileContent/fileContent.lock
+/build/classes/java/main/Server/FileCopyServerHandler.class
+/.gradle/4.8/fileHashes/fileHashes.bin
+/.gradle/4.8/fileHashes/fileHashes.lock
+/build/classes/java/main/Client/IsOnlineClient.class
+/build/classes/java/main/Server/OnlineServerHandler.class
+/.gradle/4.8/taskHistory/taskHistory.bin
+/.gradle/4.8/taskHistory/taskHistory.lock
